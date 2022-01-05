@@ -6,7 +6,7 @@ Test Case Maker
 ### *Linux / windows*
 
  ---------
-I am a programming trainer, one thing I always do is set problem sets to the students.
+I am a programming trainer, one thing I always do is seting problem sets for the students.
 
 One of the boring part in this content is making TestCase for the questions, so I wrote this programm to automaticion it.
 
