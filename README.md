@@ -8,7 +8,7 @@ Test Case Maker
  ---------
 I am a programming trainer, one thing I always do is seting problem sets for the students.
 
-One of the boring part in this content is making TestCase for the questions, so I wrote this programm to automaticion it.
+The most boring part in this content is making TestCase for the questions, so I wrote this programm to automaticion it.
 
 This program has 2 version for Windows and Linux, because I use both in my daily projects.
 
