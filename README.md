@@ -12,6 +12,5 @@ The most boring part in this content is making TestCase for the questions, so I 
 
 This program has 2 version for Windows and Linux, because I use both in my daily projects.
 
-#How to use:
-
+# How to use:
 put your source file by the name code.cpp in a same directory with TCM file and run the TCM.
