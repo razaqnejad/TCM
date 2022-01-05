@@ -53,13 +53,12 @@ void makeAnInput(int i, bool type, int m, int a, int b){
     ofstream  file;
     file.open(".\\problem\\in\\input"+to_string(i+1)+".txt");
     if(!type){
-        file << range << '\n';  //in n depended case, this line prints n in the first line of the inputs
+        file << range <<'\n';
     } 
     for (int j=0 ; j<range ; j++){
         if(!type){
-            for(int h=0 ; h<1 ; h++){   //if you wanna print some exact numbers of inputs in n line, change the "h"
-                file << rand()%(b-a+1)+a;
-                file << ' ';
+            for(int h=0 ; h<1 ; h++){   //if you need to add specific n number for each line chage the condition
+                file << rand()%(b-a+1)+a << ' ';
             }
         }else{
             file << rand()%(b-a+1)+a;
